@@ -53,18 +53,29 @@ The study results were used to compare the **tumor volume** growth across differ
 #### **4.1. Bar graph for showing the drug regimens count**
 A bar graph was plotted to visualize total no. of rows for each drug regimen.
 
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/BarChart.png)
+
 #### **4.2. Pie Chart of Gender Distribution**
 A pie chart was used to visualize the gender distribution (male vs. female) of the mice in the study.
+
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/PieChart.png)
 
 #### **4.3. Boxplot of Tumor Volume by Drug Regimen**
 A boxplot was used to show the distribution of tumor volumes for each drug regimen, identifying medians, quartiles, and outliers in the data.
 
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/BoxPlot.png)
+
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/ViolinPlot.png)
+
 #### **4.4. Line Plot of Tumor Volume vs. Time for Capomulin Group**
 A line plot was created for mice treated with **Capomulin** to show how tumor volume changed over time for individual mice.
+
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/LineChart.png)
 
 #### **4.5. Scatter Plot (Mouse Weight vs. Tumor Volume)**
 A scatter plot was created to visually assess the relationship between mouse weight and tumor volume. A **linear regression line** was added to better understand the trend.
 
+![Image Alt](https://github.com/Neelam057/DataBootCamp_DataVisualization/blob/main/Submission/Pymaceuticals/Images/ScatterPlot.png)
 
 
 ### **5. Detailed Analysis**
